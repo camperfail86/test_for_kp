@@ -1,0 +1,30 @@
+.kino_info_wrapper {
+    background: #303030;
+    height: 100vh;
+}
+
+.kino_info {
+    padding: 10rem 5%;
+    display: flex;
+    flex-direction: row;
+    background: #303030;
+}
+
+.kino_desc {
+    display: flex;
+    flex-direction: column;
+    color: white;
+    width: 100%;
+    margin-left: 5%;
+    font-size: 32px;
+}
+
+.kino_desc div {
+    margin: 20px 0;
+}
+
+.kino_ul_info {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}

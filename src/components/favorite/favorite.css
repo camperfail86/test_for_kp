@@ -1,0 +1,19 @@
+.favorite_wrapper {
+    background: #303030;
+    height: 100vh;
+}
+
+.favorite_wrapper h2 {
+    color: #FF6200;
+    font-size: 42px;
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}
+
+.no-favorites {
+    color: #FF6200;
+    font-size: 24px;
+    padding-left: 3%;
+}
